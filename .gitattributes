@@ -1,0 +1,6 @@
+# filepath: /c:/Users/User/Downloads/Education/Code Institute/codestar_blog/.gitattributes
+* text=auto
+*.html text eol=lf
+*.css text eol=lf
+*.js text eol=lf
+*.py text eol=lf
